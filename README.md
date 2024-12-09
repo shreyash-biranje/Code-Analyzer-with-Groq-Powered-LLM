@@ -19,7 +19,7 @@ Requirements
 
 - Python 3.8+
 - Streamlit
-- Groq API key
+- Groq API key  (for llama model intences )
 
 Setup
 
