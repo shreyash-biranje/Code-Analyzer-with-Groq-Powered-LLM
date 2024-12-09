@@ -45,3 +45,6 @@ Future Development
 - Expand the application to support analysis of other programming languages
 - Implement additional features, such as code refactoring or optimization suggestions
 - Explore integrating other AI models or tools to enhance the application's capabilities
+
+![imp_image](https://github.com/user-attachments/assets/4ff7d2fd-1be2-47b8-8662-3bedf0599266)
+
