@@ -3,7 +3,7 @@ import os
 from langchain_groq import ChatGroq
 
 # Set the Groq API Key explicitly
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""     # your groq cloud api key here
 os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
 # Streamlit App Header
